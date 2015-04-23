@@ -1,0 +1,161 @@
+hr {
+  width: 10%;
+  margin-left: 70px; }
+
+body {
+  max-width: 100%; }
+
+.about-company {
+  width: 100%;
+  margin: 0 auto; }
+
+.objective-company {
+  color: #bbbbbb;
+  text-align: center;
+  font-size: 16px;
+  width: 60%;
+  margin-left: 200px;
+  padding: 10px; }
+
+.history-company-link {
+  text-decoration: none;
+  color: #59bcf5; }
+
+.services {
+  width: 100%;
+  height: 200px; }
+
+.services-title {
+  color: #000;
+  margin-left: 76px;
+  margin-top: 30px;
+  display: inline-block; }
+
+.services-lists {
+  display: inline-block;
+  margin-left: 300px;
+  height: 50px;
+  width: 100%;
+  margin-top: -60px; }
+
+.firts-list {
+  list-style: none; }
+
+.second-list {
+  margin-top: -214px;
+  margin-left: 200px;
+  list-style: none; }
+
+.third-list {
+  margin-top: -214px;
+  margin-left: 400px;
+  list-style: none; }
+
+.list-item {
+  color: #bbbbbb;
+  font-size: 14px;
+  margin: 10px; }
+
+.header-nav {
+  margin-top: -40px; }
+
+.header-nav-list {
+  list-style: none;
+  display: inline-block;
+  margin-left: 600px; }
+
+.nav-list-item {
+  display: inline-block;
+  text-align: center;
+  margin-left: 10px;
+  vertical-align: top;
+  margin-top: 40px;
+  margin-bottom: 10px;
+  margin-bottom: 30px; }
+
+.nav-list-item-link {
+  text-decoration: none;
+  color: #000;
+  font-size: 18px; }
+
+.nav-list-item-link:hover {
+  color: #bbbbbb; }
+
+.main-header > img {
+  width: 25%;
+  height: 105px;
+  margin-left: 30px;
+  margin-bottom: -100px;
+  list-style: none; }
+
+.additional-information-header {
+  margin-left: 880px;
+  margin-top: -25px;
+  list-style: none;
+  display: inline-block;
+  color: #bbbbbb; }
+
+.additional-information-header > p {
+  color: #bbbbbb;
+  display: inline-block; }
+
+.location-header {
+  color: #bbbbbb;
+  text-decoration: none; }
+
+.presentation-banner {
+  background: url(../img/banner.jpg) no-repeat;
+  height: 300px; }
+
+.slogan-company {
+  color: #fff;
+  margin-left: 90px;
+  margin-top: 80px;
+  display: inline-block;
+  width: 55%;
+  font-size: 45px; }
+
+.contact {
+  width: 100%;
+  margin-top: 100px; }
+
+.contact-tittle {
+  color: #000;
+  margin-left: 500px;
+  margin-top: 30px;
+  display: inline-block;
+  font-size: 18px; }
+
+.contact-information-text {
+  text-align: center;
+  width: 70%;
+  margin-left: 150px;
+  color: #bbbbbb; }
+
+.information-link {
+  margin-left: 300px;
+  text-decoration: none;
+  color: #000; }
+
+.number-footer {
+  display: inline-block;
+  margin-left: 10px; }
+
+.location-footer-link {
+  margin-left: 690px;
+  text-decoration: none;
+  color: #000;
+  display: inline-block; }
+
+.reference {
+  background: #000;
+  width: 100%;
+  height: 50px; }
+
+.reference-text {
+  color: #fff;
+  margin-top: 10px;
+  display: inline-block;
+  margin-left: 20px; }
+
+/*# sourceMappingURL=styles.css.map */

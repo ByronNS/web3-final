@@ -1,0 +1,41 @@
+.contact{
+	width:100%;
+	margin-top:100px;
+}
+.contact-tittle{
+	color:$color-black;
+	margin-left: 500px;
+	margin-top: 30px;
+	display:inline-block;
+	font-size:18px;
+}
+.contact-information-text{
+	text-align:center;
+	width:70%;
+	margin-left:150px;
+	color:$color-light_grey;
+}
+.information-link{
+	margin-left:300px;
+	text-decoration:none;
+	color:$color-black;
+}
+.number-footer{
+	display:inline-block;
+	margin-left:10px;	
+}
+.location-footer-link{
+	margin-left: 690px;
+	text-decoration: none;
+	color: #000;
+	display:inline-block;
+}
+.reference{
+	@include footer;
+}
+.reference-text{
+	color:$color-white;
+	margin-top:10px;
+	display:inline-block;
+	margin-left:20px;
+}
